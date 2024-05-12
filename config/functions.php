@@ -193,8 +193,8 @@ if ($domain == "it.test") {
   $servername = "localhost";
   $username = "soulmat1_user";
   $password = ";w[#i&[zcrm?";
-  $dbname = "soulmat1_db";
-  $base_url = "https://soulmatehealer.com";
+  $dbname = "soulmat1_it";
+  $base_url = "https://il-guaritore-delle-anime.it";
 }
 
 // Create connection
