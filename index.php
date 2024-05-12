@@ -2,8 +2,8 @@
 include_once $_SERVER['DOCUMENT_ROOT'].'/config/vars.php';
 $t_product_name = "SOULMATE";
 $t_product_form_name = "soulmate";
-$title = "Soulmate Drawing | Soulmate Healer";
-$description = "I will draw your SOULMATE with 100% accuracy";
+$title = "Disegno dell'anima | Guaritore dell'anima";
+$description = "Disegnerò il tuo ANIMA GEMELLA con una precisione del 100%";
 
 
 
@@ -51,55 +51,54 @@ $count = $row['reviews'];
 
                    <div class="col-lg-6 col-xl-5">
 						<div class="header-box" id="order" >
-                        <h1 style="margin-top: 10px;">Your Soulmate Psychic Drawing</h1>
+                        <h1 style="margin-top: 10px;">Il disegno psichico del tuo animo gemello</h1>
 						<h4 style="text-align: center;font-size: 15px;font-weight: 500;margin-top:-10px;">
 						<span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><br>
 						<span style="font-size:13px;"><?php echo $count; ?> reviews</span>
 						</h4>
 						<p style="color: #000;text-align: left;padding: 0px 17px;margin-top: 23px;">
-						<i class="fas fa-check-square" style="color: #0bd10b;"></i> 99% Accuracy <br/>
-						<i class="fas fa-check-square" style="color: #0bd10b;"></i> 100% Satisfaction guarantee<br/>
-						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Order now, receive within 1 hour
-						</p>
+						<i class="fas fa-check-square" style="color: #0bd10b;"></i> 99% Precisione<br/>
+						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Garanzia di soddisfazione al 100%<br/>
+						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Ordina ora, ricevi entro 1 ora</p>
 						
-						<h2 class="new_prce" style="font-size: 35px;display: inline-block;">$29</h2>  
-                        <h2 class="old_price" style="font-size: 25px;opacity: 0.25;display: inline-block;text-decoration: line-through;">$59</h2> 
-						<p style="display:none;">You save <span class="saveda"><b>$270</b> (90%)</span></p>
+						<h2 class="new_prce" style="font-size: 35px;display: inline-block;">€19</h2>  
+                        <h2 class="old_price" style="font-size: 25px;opacity: 0.25;display: inline-block;text-decoration: line-through;">€59</h2> 
+						<p style="display:none;">You save <span class="saveda"><b>€270</b> (90%)</span></p>
 						</div>
 						
 						
 
 						<div class="form-container">
-						<p style="text-align:center;margin-top: -20px;font-size: 15px;">Ready for clarity? Start your experience by filling out the form below:</p>
+						<p style="text-align:center;margin-top: -20px;font-size: 15px;">Pronto per avere chiarezza? Inizia la tua esperienza compilando il modulo qui sotto:</p>
                         <form id="ajax-form" class="form-order" name="order_form" action="javascript:void(0)" method="post">
 								<div class="form-group">
 									<input type="text" class="form-control-input" id="sname" name="form_name" oninvalid="setCustomValidity('Please enter Full Name without numbers or symbols!')" title="Please enter Full Name without numbers or symbols!" pattern="[a-zA-Z][a-zA-Z\s]*" required>
-									<label class="label-control" for="sname">Full Name</label>
+									<label class="label-control" for="sname">Nome completo</label>
 									<div class="help-block with-errors"></div>
 								</div>
 								<div class="form-group">
 									<input type="email" class="form-control-input" id="semail" name="form_email" required>
-									<label class="label-control" for="semail">Email Address</label>
+									<label class="label-control" for="semail">Indirizzo email</label>
 									<div class="help-block with-errors"></div>
 								</div>
 								<div class="form-group">
                                 <div class="form_box">
-                                    <div style="text-align:start;">Your Birth Date:</div>
+                                    <div style="text-align:start;">La tua data di nascita</div>
                                     <?php include_once $_SERVER['DOCUMENT_ROOT'].'/assets/templates/date.php'; ?>
                                 </div>
 									<div class="help-block with-errors"></div>
 								</div>
-                                <div style="text-align:start;">Delivery Priority:</div>
+                                <div style="text-align:start;">Priorità di consegna:</div>
                                 <div class="form_box input-group form-group" style="    padding-bottom: 52px;">
                                 
                                     <input id="prio1" type="radio" name="priority" value="1">
-                                    <label for="prio1"><span><i style="color:#ffaf00;" class="fas fa-bolt" aria-hidden="true"></i>1h</span></label>
+                                    <label for="prio1"><span><i style="color:#ffaf00;" class="fas fa-bolt" aria-hidden="true"></i>1 ora</span></label>
                                     
                                     <input id="prio24" type="radio" name="priority" value="24">
-                                    <label for="prio24"> <span><i style="color:#c19bff;" class="fas fa-stopwatch" aria-hidden="true"></i>24h</span></label>
+                                    <label for="prio24"> <span><i style="color:#c19bff;" class="fas fa-stopwatch" aria-hidden="true"></i>24 ore</span></label>
                                     
                                     <input id="prio48" type="radio" name="priority" value="48" checked="true">
-                                    <label for="prio48"> <span><i  class="fas fa-clock" aria-hidden="true"></i>48h</span></label>
+                                    <label for="prio48"> <span><i  class="fas fa-clock" aria-hidden="true"></i>48 ore</span></label>
                                 </div>
 
                             <input class="product" type="hidden" name="product" value="soulmate">
@@ -112,11 +111,11 @@ $count = $row['reviews'];
                             <div id="error" class="alert alert-danger" style="display: none"></div>
 
 								<div class="form-group">
-									<button id="submitbtn" type="submit" class="form-control-submit-button">PLACE YOUR ORDER <i class="fa-solid fa-arrow-right"></i></button>
+									<button id="submitbtn" type="submit" class="form-control-submit-button">EFFETTUTA IL TUO ORDINE<i class="fa-solid fa-arrow-right"></i></button>
 								</div>
 								
 								<img style="width: 100%;" src="/images/payment-icons.webp">
-								<p style="font-size:12px;margin-top:7px;margin-bottom: -10px;"><img style="width: 100%;max-width: 28px;padding: 3px;" src="/images/tarot-cards.png">Only accepting 1 more order for today! <i class="fa-solid fa-fire-flame-curved"></i> 4 Sold</p>
+								<p style="font-size:12px;margin-top:7px;margin-bottom: -10px;"><img style="width: 100%;max-width: 28px;padding: 3px;" src="/images/tarot-cards.png">Accetto solo un altro ordine per oggi! <i class="fa-solid fa-fire-flame-curved"></i> 4 venduti</p>
 								
 							</form>
                             <script>
@@ -229,18 +228,18 @@ $count = $row['reviews'];
     <script>
 jQuery('input[name="priority"]').change(function(){
     if (this.value == '1') {
-        jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('$49').animate({'opacity': 1}, 200);});
-		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('$129').animate({'opacity': 0.25}, 300);});
+        jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('€39').animate({'opacity': 1}, 200);});
+		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('€129').animate({'opacity': 0.25}, 300);});
 		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>$540</b> (90%)').animate({'opacity': 1}, 400);});	
     }
     if (this.value == '24') {
-		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('$39').animate({'opacity': 1}, 200);});
-		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('$89').animate({'opacity': 0.25}, 300);});
+		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('€29').animate({'opacity': 1}, 200);});
+		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('€89').animate({'opacity': 0.25}, 300);});
 		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>$360</b> (90%)').animate({'opacity': 1}, 400);});
     }
     if (this.value == '48') {
-		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('$29').animate({'opacity': 1}, 200);});
-		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('$59').animate({'opacity': 0.25}, 300);});
+		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('€19').animate({'opacity': 1}, 200);});
+		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('€59').animate({'opacity': 0.25}, 300);});
 		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>$270</b> (90%)').animate({'opacity': 1}, 400);});
     }
 })
