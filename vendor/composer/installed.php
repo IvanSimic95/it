@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => '__root__',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '14902c17dfe6315847dfeaa25f587b4ed10ea6a0',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '14902c17dfe6315847dfeaa25f587b4ed10ea6a0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'melbahja/seo' => array(
+            'pretty_version' => 'v2.1.1',
+            'version' => '2.1.1.0',
+            'reference' => '22b0b3273bf9c8867cadf018e4daa3e426525929',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../melbahja/seo',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'theiconic/name-parser' => array(
+            'pretty_version' => 'v1.2.11',
+            'version' => '1.2.11.0',
+            'reference' => '9a54a713bf5b2e7fd990828147d42de16bf8a253',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../theiconic/name-parser',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

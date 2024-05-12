@@ -1,0 +1,76 @@
+
+	
+.third {
+	margin-bottom:0!important;
+   }
+.input-group {
+border-radius: 8px!important;
+    height: 46px!important;
+    border: 1px solid #ec5540!important;
+	display: inline-flex!important;
+	justify-content:space-evenly!important;
+	width:100%!important;
+	align-items: center;
+}
+
+select:invalid { color: gray; }
+	
+	
+.input-group input[type="radio"] {
+  display: none!important;
+}
+.input-group input[type="radio"] + label,
+.input-group select {
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 33%;
+  padding: 13px 2px;
+  text-align:center;
+  cursor: pointer;
+}
+.input-group input[type="radio"] + label:first-of-type {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-right: 1px solid #cad1da!important;
+}
+.input-group input[type="radio"] + label:last-of-type {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-left: 1px solid #cad1da!important;
+}
+.input-group input[type="radio"] + label i {
+  padding-right: 0.4em;
+}
+.input-group input[type="radio"]:checked + label,
+.input-group input:checked + label:before,
+.input-group select:focus,
+.input-group select:active {
+ background: #ec5540;
+  color: #fff!important;
+  font-weight: bold;
+  border-color: #bd8200;
+}
+
+.list-unstyled > li{
+  color: #721c24;
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: #721c24;
+    padding:5px;
+}
+
+.third {
+    width: 30%;
+    margin-left: 5%;
+    float: left
+}
+
+.third:first-child {
+    margin-left: 0;
+}
+.img-avatar{
+  border-radius:0.25rem;
+}

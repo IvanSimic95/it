@@ -1,0 +1,6 @@
+{
+    "require": {
+        "melbahja/seo": "^2.0",
+        "theiconic/name-parser": "^1.2"
+    }
+}
