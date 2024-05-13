@@ -354,22 +354,22 @@ if(isset($_SESSION['product'])){
 					
                 <div class="col-lg-12">
 					<div class="row m-0 p-0 progress-phone" style="border:1px solid;border-color:#7dc443;border-radius:0.5rem;">
-                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;font-weight:500;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">STEP #1</span><br/>PAYMENT COMPLETE</div>
-                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;background-color: #7dc443; color:white; font-weight:700;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">STEP #2</span><br/>CUSTOMIZE ORDER</div>
-                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;font-weight:500;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">STEP #3</span><br/>ORDER COMPLETED</div>
+                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;font-weight:500;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">PASSO #1</span><br/>PAGAMENTO COMPLETATO</div>
+                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;background-color: #7dc443; color:white; font-weight:700;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">PASSO #2</span><br/>PERSONALIZZA ORDINE</div>
+                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;font-weight:500;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">PASSO #3</span><br/>ORDINE COMPLETATO</div>
                     </div>
 					
                     <progress value="25" max="100" style="--value: 25; --max: 100;margin-top:25px;margin-bottom:25px;"></progress>	
                 </div>
 				
 				<div class="col-lg-12">
-                    <h2 style="font-size:24px;" class="h2-heading">Wait! Your Portrait Isn't Complete Without This</h2>
+                    <h2 style="font-size:24px;" class="h2-heading">Attenzione! Il tuo ritratto non è completo senza questo</h2>
                 </div>
 
 		<div class="col-lg-12 col-xl-12">
 			
 				<p style="margin-top:10px;margin-bottom: 20px;text-align:center;color: #000;font-size: 18px;line-height: 1.4em;" class="card-title-prod">
-					Imagine seeing not just a pencil sketch, but a radiant, full-color portrait that truly captures the vibrancy of your <span style="font-weight:600;color:#ec5540;"><?php echo $drawingtext; ?></span>. The depth of their eyes, the shade of their lips, the colors that capture their essence — all brought to life.
+					IImmagina di vedere non solo uno schizzo a matita, ma un ritratto radioso e a pieno colore che cattura veramente la vivacità del tuo disegno. La profondità dei loro occhi, la tonalità delle loro labbra, i colori che catturano la loro essenza — tutto portato alla vita.
 				</p>
 			
 			<div style="margin-top:5px;margin-bottom:7px;background-color:#f5f5f5;padding:4px;" class="row">
@@ -392,26 +392,26 @@ if(isset($_SESSION['product'])){
  
                        
 				<p style="margin-top:20px;margin-bottom: 15px;text-align:center;color: #000;font-size: 18px;line-height: 1.4em;" class="card-title-prod">
-					You're this close to enhancing the magic. With just one small addition, you can transform your soulmate portrait from beautiful to absolutely breathtaking.
+					Sei così vicino a potenziare la magia. Con solo un piccolo aggiunta, puoi trasformare il ritratto del tuo anima gemella da bello a assolutamente mozzafiato.
 				</p>
                         
 					   
 					    <div style="margin-bottom: 20px;border-style: dashed; border-color: #3b75cc; border-width: 2px; background-color:#eef5fe;" class="card-image">
 							<div style="padding:5px;margin-bottom:0px;">
-								<p style="letter-spacing: -0.25px;font-size: 22px;line-height: 1.4em;margin-top: 10px;font-weight:600;">Upgrade To A <u>Vivid Colored Portrait</u> For Just $9.67 <i style="font-size: 13px;" class="fas fa-angle-double-right"></i></p>
+								<p style="letter-spacing: -0.25px;font-size: 22px;line-height: 1.4em;margin-top: 10px;font-weight:600;">Aggiorna a <u>un ritratto a colori vividi</u> per soli 9.67€ <i style="font-size: 13px;" class="fas fa-angle-double-right"></i></p>
 
 				<div style="margin-bottom: -8px;margin-top: -17px;font-size: 12px;;">
 					<span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span>
-					<span style="font-size:11px;font-weight:600;"><?php echo $count; ?> reviews</span>
+					<span style="font-size:11px;font-weight:600;"><?php echo $count; ?> recensioni</span>
 				</div>
 				<br clear="all">
-								<a href="https://www.digistore24.com/answer/yes?template=light" style="color: #fff;" class="blob orange"><i style="margin-right: 10px;" class="fa fa-shopping-cart" aria-hidden="true"></i>UPGRADE NOW</a>
+								<a href="https://www.digistore24.com/answer/yes?template=light" style="color: #fff;" class="blob orange"><i style="margin-right: 10px;" class="fa fa-shopping-cart" aria-hidden="true"></i>AGGIORNA ORA</a>
 								<p></p>
-<br>								<a href="https://www.digistore24.com/answer/no" style="font-size: 18px;color:blue;" href="">No Thanks, I'll Stick With Black & White</a>
-								<p style="letter-spacing: -0.25px;font-size: 13px;line-height: 1.2;margin-top: 20px;">This special offer is only here and now. <span style="font-weight:600;">If you leave this page, you'll lose out on the chance to get colored drawing</span>. So, <span style="color:#ff793f;font-weight:600;text-decoration:underline;">click the upgrade button now</span>!</p>
+<br>								<a href="https://www.digistore24.com/answer/no" style="font-size: 18px;color:blue;" href="">No grazie, resterò con il bianco e nero</a>
+								<p style="letter-spacing: -0.25px;font-size: 13px;line-height: 1.2;margin-top: 20px;">Questa offerta speciale è disponibile solo qui e ora. Se lasci questa pagina, perderai l'opportunità di ottenere il disegno a colori. Quindi, <span style="color:#ff793f;font-weight:600;text-decoration:underline;">clicca ora sul pulsante di aggiornamento!</span>!</p>
 								
 								<p style="letter-spacing: -0.25px;font-size: 12px;line-height: 1.2;margin-top: 20px;">
-									<span style="color: #09c100;font-weight:700;">$</span> Get a 60 day money back guarantee if you aren't satisfied.
+									<span style="color: #09c100;font-weight:700;">$</span> Ottieni una garanzia di rimborso di 60 giorni se non sei soddisfatto!
 								</p>
 							</div>
 						</div>

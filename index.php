@@ -51,7 +51,7 @@ $count = $row['reviews'];
 
                    <div class="col-lg-6 col-xl-5">
 						<div class="header-box" id="order" >
-                        <h1 style="margin-top: 10px;">Il disegno psichico del tuo animo gemello</h1>
+                        <h1 style="margin-top: 10px;">DISEGNO PSICHICO DEL TUO ANIMA GEMELLA</h1>
 						<h4 style="text-align: center;font-size: 15px;font-weight: 500;margin-top:-10px;">
 						<span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><br>
 						<span style="font-size:13px;"><?php echo $count; ?> reviews</span>
@@ -135,24 +135,24 @@ $count = $row['reviews'];
             <div style="margin-top: 15px;margin-bottom:15px;" class="row">
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h2>PSYCHIC DRAWING OF YOUR SOULMATE</h2>
-						<br> <p style="color:#d9480d;text-align:center;"><b>💕 Dear Beautiful Soul, 💕</b></p>
- <p>Are you weary of the relentless pursuit of love? Longing for a connection that speaks to your soul and a companion that’s truly destined for you?    </p> 
- <p>  I am The Soulmate Healer, and I’m here to unveil the mysteries of your heart, to guide you to a love that’s beyond imagination, a love that’s exclusively yours. </p> 
-<br><p style="color:#d9480d;text-align:center;"><b> 🌟 What is a Soulmate Drawing? 🌟 </b> </p>
- <p> A Soulmate Drawing is your personal gateway to the future. It’s not just a portrait; it’s the revelation of your destined companion, combined with my psychic insights and artistic talents to bring you closer to your destined love. It's a mirror reflecting the true essence of your heart and the person who’s bound to complete you.  </p> 
- <br><p style="color:#d9480d;text-align:center;"> 🌷 Feel Seen, Feel Understood… 🌷 </b></p>
-<p>  Ever feel alone in a crowd, like no one really gets you? You laugh, you talk, but inside, you're asking, “Where’s the one who really sees me? Who gets the real me?” We all want someone who knows our story, who understands our silence, who makes us feel we belong.</p> 
-<p>Imagine finally meeting someone who gets your jokes, who knows your favorite songs, who can make you smile just by being there. Imagine having a buddy, a pal, someone to share your dreams and your worries with. Someone who knows you, the real you, and loves you because of it, not in spite of it.  </p> 
-<p>  This isn’t just about finding love. It’s about finding your other half, your true buddy, who makes you feel whole, understood, and truly at home. It’s about feeling seen, feeling loved, for who you really are.</p> 
-<p> I’m here to help you find this friend, this <b> soulmate</b>. I’ll draw them for you, and I’ll tell you how you’ll meet them. Your soulmate isn’t just someone to love; they’re your best friend, your partner in crime, your shoulder to lean on. So, are you ready to meet the one who’ll dance through life with you, laughing all the way? </p> 
+                        <h2>DISEGNO PSICHICO DEL TUO ANIMA GEMELLA</h2>
+						<br> <p style="color:#d9480d;text-align:center;"><b>💕 Cara Anima Splendida, 💕</b></p>
+ <p>Sei stanco dell'incessante ricerca dell'amore? Desideri una connessione che parli alla tua anima e un compagno veramente destinato a te?    </p> 
+ <p>  Sono Il Guaritore dell'Anima Gemella, e sono qui per svelare i misteri del tuo cuore, per guidarti verso un amore che va oltre l'immaginazione, un amore esclusivamente tuo. </p> 
+<br><p style="color:#d9480d;text-align:center;"><b> 🌟 Cos'è un Disegno dell'Anima Gemella? 🌟 </b> </p>
+ <p> Un Disegno dell'Anima Gemella è la tua porta personale verso il futuro. Non è solo un ritratto; è la rivelazione del tuo compagno destinato, combinata con le mie intuizioni psichiche e talenti artistici per avvicinarti al tuo amore destinato. È uno specchio che riflette la vera essenza del tuo cuore e la persona destinata a completarti. </p> 
+ <br><p style="color:#d9480d;text-align:center;"> 🌷 Sentiti Visto, Sentiti Compreso... 🌷 </b></p>
+<p>  Ti sei mai sentito solo in mezzo a una folla, come se nessuno ti capisse veramente? Ridi, parli, ma dentro di te ti chiedi, “Dov'è colui che mi vede davvero? Chi comprende il vero me?” Tutti desideriamo qualcuno che conosca la nostra storia, che capisca il nostro silenzio, che ci faccia sentire appartenenti.</p> 
+<p>Immagina finalmente di incontrare qualcuno che capisce i tuoi scherzi, che conosce le tue canzoni preferite, che riesce a farti sorridere semplicemente essendo presente. Immagina di avere un amico, un compagno, qualcuno con cui condividere i tuoi sogni e le tue preoccupazioni. Qualcuno che ti conosce, il vero te, e ti ama per questo, nonostante tutto. </p> 
+<p> Non si tratta solo di trovare l'amore. Si tratta di trovare la tua altra metà, il tuo vero amico, colui che ti fa sentire completo, compreso e veramente a casa. Si tratta di sentirsi visti, amati, per ciò che sei veramente.</p> 
+<p> Sono qui per aiutarti a trovare questo amico, questa anima gemella. La disegnerò per te e ti dirò come la incontrerai. La tua anima gemella non è solo qualcuno da amare; è il tuo migliore amico, il tuo complice, la spalla su cui puoi appoggiarti. Quindi, sei pronto a incontrare chi danzerà nella vita con te, ridendo tutto il tempo? </p> 
 
- <br><p style="color:#d9480d;text-align:center;"><b> 💖 Your Journey to Self-Discovery… 💖 </b></p>
- <p> Meet not just a partner, but a soul who will guide you towards profound self-discovery and deeper understanding. This transformative encounter is your opportunity to bloom and to experience emotional and spiritual growth like never before.  </p> 
- <br><p style="color:#d9480d;text-align:center;"><b> 💖 Your Happiness, Guaranteed! 💖 </b>  </p>
- <p>  Your happiness is my mission! If your soulmate drawing doesn’t bring you the joy and clarity you hoped for, just reach out. I’ll refund every penny immediately, no questions, no hassle! It’s all about your peace of mind and heartfelt satisfaction! </p> 
+ <br><p style="color:#d9480d;text-align:center;"><b> 💖 Il Tuo Viaggio verso la Scoperta di Sé... 💖 </b></p>
+ <p> Incontra non solo un partner, ma un'anima che ti guiderà verso una profonda scoperta di te stesso e una maggiore comprensione. Questo incontro trasformativo è la tua opportunità per sbocciare e vivere una crescita emotiva e spirituale come mai prima d'ora.  </p> 
+ <br><p style="color:#d9480d;text-align:center;"><b> 💖 La Tua Felicità, Garantita! 💖 </b>  </p>
+ <p>  La tua felicità è la mia missione! Se il disegno del tuo anima gemella non ti porta la gioia e la chiarezza che speravi, basta che tu mi contatti. Rimborserò ogni centesimo immediatamente, senza domande, senza problemi! Si tratta della tua tranquillità e soddisfazione di cuore! </p> 
 
- <br><p> <b>💠 Please Note: </b> This is a digital delivery product sent straight to your email. No physical items will be sent to your home, allowing for a quick and seamless experience!  </p> 
+ <br><p> <b>💠 💠 Nota Bene: Questo è un prodotto consegnato digitalmente direttamente alla tua email. Nessun oggetto fisico verrà inviato a casa tua, permettendo un'esperienza rapida e senza interruzioni! </p> 
 </div>  
                 </div>
 
@@ -183,11 +183,11 @@ $count = $row['reviews'];
                 
                 <div class="col-lg-12">
                 
-				<br><a style="width:100%;text-align:center;" class="btn-solid-reg" href="#order">ORDER YOUR</a>
+				<br><a style="width:100%;text-align:center;" class="btn-solid-reg" href="#order">Ordina Ora</a>
                 <br clear="all"> <br clear="all">
-                <p> <b> You are fully protected by the 100% satisfaction guarantee! </b> 
-				If for any reason, or no reason at all, you're not 100% satisfied with what's inside, simply send me an email and I'll refund every penny of your order cost. </p> 
-				 <p> <center> <strong>  <FONT COLOR="#d9480d">  Pictures from customers:  </FONT> </strong><center>  </p> 
+                <p> <b> Sei completamente protetto dalla garanzia di soddisfazione al 100%! </b> 
+				Se per qualsiasi motivo, o senza motivo, non sei completamente soddisfatto di ciò che hai ricevuto, inviami semplicemente una email e ti rimborserò ogni centesimo del costo del tuo ordine. </p> 
+				 <p> <center> <strong>  <FONT COLOR="#d9480d">  Foto dei clienti:  </FONT> </strong><center>  </p> 
                  </div> 
 
                  <!-- CUSTOMER REVIEWS IMAGE -->
