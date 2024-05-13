@@ -108,39 +108,9 @@ DeBounce_RedBackgound = 'true'; // Convert input background to red for an invali
                     <li class="nav-item">
                         <a class="nav-link" href="/">HOME <span class="sr-only">(current)</span></a>
                     </li>
-					
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">SERVICES</a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="/soulmate-drawing"><span class="item-text">Soulmate Drawing & Reading</span></a>
-                            <a class="dropdown-item" href="/twin-flame"><span class="item-text">Twin Flame Drawing & Reading</span></a>
-                            <a class="dropdown-item" href="/future-spouse"><span class="item-text">Future Spouse Drawing & Reading</span></a>
-                            <div class="dropdown-items-divide-hr"></div>
-                            <a class="dropdown-item" href="/weekly-energy-reading"><span class="item-text">Weekly Energy Reading</span></a>
-                            <a class="dropdown-item" href="/future-baby"><span class="item-text">Future Baby</span></a>
-                            <a class="dropdown-item" href="/purification"><span class="item-text">Psychic Purification</span></a>
-                            <div class="dropdown-items-divide-hr"></div>
-                            <a class="dropdown-item" href="/readings"><span class="item-text">Psychic Reading</span></a>
-                            <a class="dropdown-item" href="/past-life"><span class="item-text">Past Life Drawing</span></a>
-                            <a class="dropdown-item" href="/husband"><span class="item-text">How u'll Meet Your Husband</span></a>
-                            <div class="dropdown-items-divide-hr"></div>
-                            <a class="dropdown-item" href="/ask"><span class="item-text">Ask Me Anything</span></a>
-                            <a class="dropdown-item" href="/inner-thoughts"><span class="item-text">Their Inner Thoughts Channeled</span></a>
-                            <!--<a class="dropdown-item" href="upsell.html"><span class="item-text">UPSELL 01</span></a>-->
-
-                        </div>
-                    </li>	
-                    
-                    <li class="nav-item">
-                        <a class="nav-link" href="/contact">CONTACT</a>
-                    </li>
-					
-                    <li class="nav-item">
-                        <a class="nav-link" href="/blog">BLOG</a>
-                    </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="/dashboard">DASHBOARD</a>
+                        <a class="nav-link" href="/dashboard">Pannello di controllo</a>
                     </li>
 
                 </ul>
