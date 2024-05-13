@@ -217,8 +217,7 @@ $count = $row['reviews'];
          </div>
 	</div>
     <br>
-    <?php include_once $_SERVER['DOCUMENT_ROOT'].'/assets/templates/allproducts.php'; ?>
-
+  
 <br clear="all">			
 				
             </div>  
