@@ -15,11 +15,11 @@
                         <ul class="list-unstyled li-space-lg p-small">
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body"> <a class="white" href="/tos">Terms & Conditions</a></div>
+                                <div class="media-body"> <a class="white" href="/tos">Termini e Condizioni</a></div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body"> <a class="white" href="/tos/#refunds">REFUND POLICY</a></div>
+                                <div class="media-body"> <a class="white" href="/tos/#refunds">Politica di rimborso</a></div>
                             </li>
                         </ul>
                     </div>
@@ -30,7 +30,7 @@
                         <ul class="list-unstyled li-space-lg p-small">
                             <li class="media">
                                 <i class="fas fa-map-marker-alt"></i>
-                                <div class="media-body"><a class="white" href="/contact">Contact Us!</a></div>
+                                <div class="media-body"><a class="white" href="/contact">Contattaci!</a></div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-envelope"></i>
@@ -46,7 +46,7 @@
     border-radius: 5px;
     margin-bottom: 25px
 ;">
-                Disclaimer: The information contained herein should not be used as a substitute for the advice of appropriately qualified and licensed person. According to the laws in force, I must state that my services are for entertainments purposes only. I have no liability and/or responsibility for any actions and/or decisions any buyer/client chooses to take or make based on his/her consultation. You acknowledge that I am not a licensed psychologist, lawyer, or health care professional and my services do not replace the care of lawyers, psychologists, or other healthcare professionals. Tarot and numerology are in no way to be construed or substituted as psychological counseling or any other type of therapy or medical advice. I will at all times exercise my best professional efforts, skills, and care.</p></div>
+                Disclaimer: Le informazioni contenute nel presente documento non dovrebbero essere utilizzate come sostituto del consiglio di una persona opportunamente qualificata e autorizzata. In conformità alle leggi vigenti, devo dichiarare che i miei servizi sono solo a scopo ludico. Non ho alcuna responsabilità e/o responsabilità per le azioni e/o decisioni che qualsiasi acquirente/cliente sceglie di intraprendere o prendere in base alla sua consultazione. Riconosci che non sono uno psicologo, avvocato o professionista della salute autorizzato e che i miei servizi non sostituiscono l'assistenza di avvocati, psicologi o altri professionisti della salute. Il tarocchi e la numerologia non devono in alcun modo essere interpretati o sostituiti come consulenza psicologica o qualsiasi altro tipo di terapia o consiglio medico. Mi impegnerò sempre al massimo per fornire i miei migliori sforzi professionali, competenze e attenzione.</p></div>
          <div class="row footer-guarantee"  style="
     padding: 15px;
     border: 2px solid white;
@@ -55,8 +55,8 @@
 ;">
 <div class="col-md-3 col-sm-12 d-none d-lg-block"><img src="/images/60.png" style="max-width:200px;"></div>
 <div class="col-md-9 col-sm-12">
-    <h3 style="margin-bottom:40px;">100% Satisfaction Guarantee!</h3>
-    <p>You are fully protected by our <b>100% Satisfaction-Guaranteee</b>. So for that reason, I'll give you 60 days money back guarantee. If for any reason, or no reason at all, you're not 100% satisfied with what's inside, simply send me an email and I'll refund every penny of your order cost.</p>
+    <h3 style="margin-bottom:40px;">Garanzia di Soddisfazione al 100%!</h3>
+    <p>Sei completamente protetto dalla nostra <b>Garanzia di Soddisfazione al 100%</b>. Per questo motivo, ti offriamo una garanzia di rimborso di 60 giorni. Se per qualsiasi motivo, o per nessun motivo in particolare, non sei al 100% soddisfatto di ciò che c'è dentro, basta inviarmi una email e ti rimborserò ogni centesimo del costo del tuo ordine.</p>
 </div>
 </div>
         </div> <!-- end of container -->
