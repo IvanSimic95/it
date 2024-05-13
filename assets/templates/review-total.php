@@ -135,7 +135,7 @@ $bar1 = round($bar1, "0");
                     <div class="sprw-middle-content-wrap">
                         <div class="sprw-review-count">
                             <span class="sprw-count-number">
-                                <b><?php echo $count; ?></b> reviews </span>
+                                <b><?php echo $count; ?></b> Recensioni </span>
                         </div>
                     </div>
                 </div>
