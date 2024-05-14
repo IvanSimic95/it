@@ -279,9 +279,9 @@ if(isset($_SESSION['shortproduct'])){
 					
                 <div class="col-lg-12">
 					<div class="row m-0 p-0 progress-phone" style="border:1px solid;border-color:#7dc443;border-radius:0.5rem;">
-                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;font-weight:500;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">STEP #1</span><br/>PAYMENT COMPLETE</div>
-                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;background-color: #7dc443; color:white; font-weight:700;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">STEP #2</span><br/>CUSTOMIZE ORDER</div>
-                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;font-weight:500;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">STEP #3</span><br/>ORDER COMPLETED</div>
+                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;font-weight:500;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">PASSO #1</span><br/>PAGAMENTO COMPLETATO</div>
+                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;background-color: #7dc443; color:white; font-weight:700;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">PASSO #2</span><br/>PERSONALIZZA ORDINE</div>
+                        <div class="col-sm-4 col-4 m-auto" style="padding: 10px;font-weight:500;font-size: 12px;line-height: 15px;"><span style="font-weight:700;">PASSO #3</span><br/>ORDINE COMPLETATO</div>
                     </div>
 					
                     <progress value="50" max="100" style="--value: 50; --max: 100;margin-top:25px;margin-bottom:25px;"></progress>	
@@ -289,7 +289,7 @@ if(isset($_SESSION['shortproduct'])){
 				
 				<div class="col-lg-12 col-xl-12">
 				
-				<h2 style="margin-bottom: 24px;text-align:left;color:#8e44ad;" class="h2-heading">Dear valued customer,</h2>
+				<h2 style="margin-bottom: 24px;text-align:left;color:#8e44ad;" class="h2-heading">Gentile cliente,</h2>
 		
 				<p style="margin-top: 5px;margin-bottom: 25px;text-align:left;color: #000;font-size: 18px;line-height: 1.4em;" class="card-title-prod">
 
