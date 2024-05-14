@@ -45,8 +45,8 @@
             <div class="wrap-white">
 
 
-                <h1>Dashboard</h1>
-                <h6>You are logged in as <?php echo $_SESSION['login_email']; ?></h6>
+                <h1>Pannello di controllo</h1>
+                <h6>Sei collegato come <?php echo $_SESSION['login_email']; ?></h6>
 
 
             </div>

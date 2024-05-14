@@ -8,8 +8,8 @@
             <div class="wrap-white">
 
 
-                <h1>Dashboard</h1>
-                <h6>Enter the email you used for purchase and we will log you in!</h6>
+                <h1>Pannello di controllo</h1>
+                <h6>Inserisci l'email che hai utilizzato per l'acquisto e ti faremo accedere!</h6>
 
 
             </div>
@@ -32,7 +32,7 @@
 
 
                         <div class="form-group">
-                            <button id="submitbtn" name="form_submit" type="submit" class="form-control-submit-button">Login <i class="fa-solid fa-arrow-right"></i></button>
+                            <button id="submitbtn" name="form_submit" type="submit" class="form-control-submit-button">Accedi <i class="fa-solid fa-arrow-right"></i></button>
                         </div>
 
 

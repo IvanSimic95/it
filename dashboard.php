@@ -45,7 +45,7 @@ if (isset($_POST['form_submit'])) {
         $_SESSION['login_email'] = $row2['email'];
         $_SESSION['login_id']  = $row2['id'];
         }else{
-            $TextError = "Can't find an account with that email";
+            $TextError = "Non riesco a trovare un account con quell'email.";
         }
     } 
 }
@@ -59,7 +59,7 @@ if (isset($_SESSION['login_id'])) {
 
 if (isset($_GET['error'])) {
     $showerror = 1;
-    $error = "Can't find an account with that email";
+    $error = "Non riesco a trovare un account con quell'email.";
 }
 ?>
 <style>
