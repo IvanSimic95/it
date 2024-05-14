@@ -130,7 +130,7 @@ $count = $row['reviews'];
                 </div> 
 				
 				
-                <div style="background-color:#f5f5f5;margin-right: 0px;margin-left: 0px;border-radius:0.5rem;" class="row">
+	<div style="background-color:#f5f5f5;margin-right: 0px;margin-left: 0px;border-radius:0.5rem;" class="row">
          <div class="col-lg-12 col-xl-12">
             <div style="margin-top: 15px;margin-bottom:15px;" class="row">
                 <div class="col-lg-6">
@@ -183,11 +183,11 @@ $count = $row['reviews'];
                 
                 <div class="col-lg-12">
                 
-				<br><a style="width:100%;text-align:center;" class="btn-solid-reg" href="#order">ORDER YOUR</a>
+				<br><a style="width:100%;text-align:center;" class="btn-solid-reg" href="#order">Ordina Ora</a>
                 <br clear="all"> <br clear="all">
-                <p> <b> You are fully protected by the 100% satisfaction guarantee! </b> 
-				If for any reason, or no reason at all, you're not 100% satisfied with what's inside, simply send me an email and I'll refund every penny of your order cost. </p> 
-				 <p> <center> <strong>  <FONT COLOR="#d9480d">  Pictures from customers:  </FONT> </strong><center>  </p> 
+                <p> <b> Sei completamente protetto dalla garanzia di soddisfazione al 100%! </b> 
+				Se per qualsiasi motivo, non sei completamente soddisfatto di ciò che hai ricevuto, inviami semplicemente una email e ti rimborserò ogni centesimo del costo del tuo ordine. </p> 
+				 <p> <center> <strong>  <FONT COLOR="#d9480d">  Foto dei clienti:  </FONT> </strong><center>  </p> 
                  </div> 
 
                  <!-- CUSTOMER REVIEWS IMAGE -->
