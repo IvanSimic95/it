@@ -1,6 +1,6 @@
 <?php
-$title = "Thank you for your Order! | Soulmate Healer";
-$description = "You have finished your order process!";
+$title = "Grazie per il tuo ordine! | Soulmate Healer";
+$description = "Hai completato il processo di ordine!";
 include_once $_SERVER['DOCUMENT_ROOT'] . '/assets/templates/header.php'; ?>
 
 <?php
@@ -117,52 +117,52 @@ if ($c == "[CUSTOM]") {
                 <?php if ($thankyou == 1) { ?>
                     <div class="p-4" style="border:2px solid orange; border-radius:0.5rem;background-color: rgba(242, 236, 231, 0.9);">
                         <div class="wrap-white">
-                            <h1 style="margin:0;padding-top:10px;padding-bottom:10px;">Thank you for your Order!</h1>
-                            <h6 style="display:none;">Enter the email you used for purchase and we will log you in!</h6>
+                            <h1 style="margin:0;padding-top:10px;padding-bottom:10px;">Grazie per il tuo ordine!</h1>
+                            <h6 style="display:none;">Inserisci l'email che hai utilizzato per l'acquisto e ti faremo accedere!</h6>
                         </div>
                         <div class="wrap-white" style="padding-top:30px;padding-bottom:40px;">
 
-                            <h3 id="finalnotice">You will receive your order in 1-48 hours depending on priority you picked and it will be delivered via email!<br></h3>
-                            <h3 id="finalnoticeinfo">If you need help or support with your order please reach out to us by clicking <a href="/contact">Here</a><br></h3>
+                            <h3 id="finalnotice">Riceverai il tuo ordine entro 1-48 ore a seconda della priorità che hai scelto e sarà consegnato via email!<br></h3>
+                            <h3 id="finalnoticeinfo">Se hai bisogno di aiuto o supporto con il tuo ordine, ti preghiamo di contattarci cliccando <a href="/contact">qui</a><br></h3>
                             <?php if ($c != "none") { ?>
                                 <form id="autologin" data-toggle="validator" data-focus="false" action="/dashboard" method="GET">
                                     <input class="orderID" type="hidden" name="autologin" value="yes">
                                     <input class="orderID" type="hidden" name="u" value="<?php echo $c; ?>">
-                                    <button style="margin-top:15px; padding:15px; width:100%; font-size:100%; text-decoration: none;border-radius:0.25rem;" class="btn form-control-submit-button"><i class="fa fa-user"></i> Login to User Dashboard!</button>
+                                    <button style="margin-top:15px; padding:15px; width:100%; font-size:100%; text-decoration: none;border-radius:0.25rem;" class="btn form-control-submit-button"><i class="fa fa-user"></i> Accedi al Pannello Utente!</button>
                                 <?php } else { ?>
-                                    <a href="/dashboard" style="margin-top:15px; padding:15px; width:100%; font-size:100%; text-decoration: none;border-radius:0.25rem;" class="btn form-control-submit-button"><i class="fa fa-user"></i> Login to User Dashboard!</a>
+                                    <a href="/dashboard" style="margin-top:15px; padding:15px; width:100%; font-size:100%; text-decoration: none;border-radius:0.25rem;" class="btn form-control-submit-button"><i class="fa fa-user"></i> Accedi al Pannello Utente!</a>
                                 <?php } ?>
 
                         </div>
-                        <h4>The debit will be performed by Digistore24.com </h4>
+                        <h4>Il pagamento sarà effettuato da Digistore24.com</h4>
                     </div>
 
                 <?php } else { ?>
                     <div class="p-4" style="border:2px solid orange; border-radius:0.5rem;background-color: rgba(242, 236, 231, 0.9);">
                         <div class="wrap-white">
-                            <h1 style="margin:0;padding-top:10px;padding-bottom:10px;">Final Step!</h1>
-                            <h6>Please verify Your & Your Partners preferred gender!</h6>
+                            <h1 style="margin:0;padding-top:10px;padding-bottom:10px;">Ultimo Passo!</h1>
+                            <h6>Per favore, verifica il tuo e il sesso preferito del tuo partner!</h6>
                             <form id="switch-gender" data-toggle="validator" data-focus="false" action="?t=yes&c=<?php echo $c; ?>" method="post">
                                 <div class="form-group">
                                     <select class="form-control-input" id="SelectGender" aria-label="SelectGender" required="" name="gender">
-                                        <option <?php if ($UserGender == "male") echo 'selected=""'; ?> value="male"><span class="fa fa-user"></span> Male</option>
-                                        <option <?php if ($UserGender == "female") echo 'selected=""'; ?>value="female"><span class="fa fa-user"></span>Female</option>
+                                        <option <?php if ($UserGender == "male") echo 'selected=""'; ?> value="male"><span class="fa fa-user"></span> Maschio</option>
+                                        <option <?php if ($UserGender == "female") echo 'selected=""'; ?>value="female"><span class="fa fa-user"></span>Femmina</option>
                                     </select>
-                                    <label class="label-control" for="SelectGender">Your Gender</label>
+                                    <label class="label-control" for="SelectGender">Il tuo sesso</label>
                                     <div class="help-block with-errors"></div>
                                 </div>
 
                                 <div class="form-group">
                                     <select class="form-control-input" id="SelectGender" aria-label="SelectGender" required="" name="pgender">
-                                        <option <?php if ($PartnerGender == "male") echo 'selected=""'; ?> value="male"><span class="fa fa-user"></span> Male</option>
-                                        <option <?php if ($PartnerGender == "female") echo 'selected=""'; ?>value="female"><span class="fa fa-user"></span> Female</option>
+                                        <option <?php if ($PartnerGender == "male") echo 'selected=""'; ?> value="male"><span class="fa fa-user"></span> Maschio</option>
+                                        <option <?php if ($PartnerGender == "female") echo 'selected=""'; ?>value="female"><span class="fa fa-user"></span> Femmina</option>
                                     </select>
-                                    <label class="label-control" for="SelectGender">Preferred Partner Gender</label>
+                                    <label class="label-control" for="SelectGender">Sesso preferito del partner</label>
                                     <div class="help-block with-errors"></div>
                                 </div>
 
                                 <input class="orderID" type="hidden" name="userID" value="<?php echo $userID; ?>">
-                                <button style="margin-top:15px; padding:15px; width:100%; font-size:130%; font-weight:bold;border-radius:0.25rem;" id="SaveChanges" type="submit" name="form_submit" class="btn form-control-submit-button" value="Confirm!"><i class="fa fa-square-check"></i> Confirm</button>
+                                <button style="margin-top:15px; padding:15px; width:100%; font-size:130%; font-weight:bold;border-radius:0.25rem;" id="SaveChanges" type="submit" name="form_submit" class="btn form-control-submit-button" value="Conferma!"><i class="fa fa-square-check"></i> Conferma</button>
                             </form>
                         </div>
                     </div>
