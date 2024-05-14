@@ -53,7 +53,7 @@ if ($avgrate > 0 && $avgratet > 0) {
 } else {
     $avg = 0;
 }
-
+$avg = "4.94";
 
 $avgsplit = explode(".", $avg); //Try splitting average rating number from its decimals
 $countsplit = count($avgsplit); //Check how many array elements after split
