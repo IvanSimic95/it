@@ -18,8 +18,8 @@ if($r == 1){
     header('Location: '.$rlink);
     die();
 }
-$title = "User Dashboard | Soulmate Healer";
-$description = "Login to your account and access your orders!";
+$title = "Pannello di controllo | Soulmate Healer";
+$description = "Accedi al tuo account e accedi ai tuoi ordini!";
 include_once $_SERVER['DOCUMENT_ROOT'] . '/assets/templates/header.php';
 $showerror = 0;
 

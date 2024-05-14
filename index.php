@@ -51,25 +51,25 @@ $count = $row['reviews'];
 
                    <div class="col-lg-6 col-xl-5">
 						<div class="header-box" id="order" >
-                        <h1 style="margin-top: 10px;">DISEGNO PSICHICO DEL TUO ANIMA GEMELLA</h1>
+                        <h1 style="margin-top: 10px;">DISEGNO PSICHICO DELLA TUA ANIMA GEMELLA</h1>
 						<h4 style="text-align: center;font-size: 15px;font-weight: 500;margin-top:-10px;">
 						<span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><br>
-						<span style="font-size:13px;"><?php echo $count; ?> reviews</span>
+						<span style="font-size:13px;"><?php echo $count; ?> Recensioni</span>
 						</h4>
 						<p style="color: #000;text-align: left;padding: 0px 17px;margin-top: 23px;">
-						<i class="fas fa-check-square" style="color: #0bd10b;"></i> 99% Precisione<br/>
-						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Garanzia di soddisfazione al 100%<br/>
-						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Ordina ora, ricevi entro 1 ora</p>
+						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Precisione al 99%<br/>
+						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Garanzia Soddisfatti o rimborsati<br/>
+						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Ordina ora, lo ricevi entro un’ora</p>
 						
-						<h2 class="new_prce" style="font-size: 35px;display: inline-block;">€19</h2>  
-                        <h2 class="old_price" style="font-size: 25px;opacity: 0.25;display: inline-block;text-decoration: line-through;">€59</h2> 
-						<p style="display:none;">You save <span class="saveda"><b>€270</b> (90%)</span></p>
+						<h2 class="new_prce" style="font-size: 35px;display: inline-block;">19€</h2>  
+                        <h2 class="old_price" style="font-size: 25px;opacity: 0.25;display: inline-block;text-decoration: line-through;">59€</h2> 
+						<p style="display:none;">You save <span class="saveda"><b>270€</b> (90%)</span></p>
 						</div>
 						
 						
 
 						<div class="form-container">
-						<p style="text-align:center;margin-top: -20px;font-size: 15px;">Pronto per avere chiarezza? Inizia la tua esperienza compilando il modulo qui sotto:</p>
+						<p style="text-align:center;margin-top: -20px;font-size: 15px;"> Inizia la tua esperienza compilando il modulo qui sotto:</p>
                         <form id="ajax-form" class="form-order" name="order_form" action="javascript:void(0)" method="post">
 								<div class="form-group">
 									<input type="text" class="form-control-input" id="sname" name="form_name" oninvalid="setCustomValidity('Please enter Full Name without numbers or symbols!')" title="Please enter Full Name without numbers or symbols!" pattern="[a-zA-Z][a-zA-Z\s]*" required>
@@ -111,7 +111,7 @@ $count = $row['reviews'];
                             <div id="error" class="alert alert-danger" style="display: none"></div>
 
 								<div class="form-group">
-									<button id="submitbtn" type="submit" class="form-control-submit-button">EFFETTUTA IL TUO ORDINE<i class="fa-solid fa-arrow-right"></i></button>
+									<button id="submitbtn" type="submit" class="form-control-submit-button">EFFETTUA IL TUO ORDINE<i class="fa-solid fa-arrow-right"></i></button>
 								</div>
 								
 								<img style="width: 100%;" src="/images/payment-icons.webp">
@@ -134,25 +134,25 @@ $count = $row['reviews'];
          <div class="col-lg-12 col-xl-12">
             <div style="margin-top: 15px;margin-bottom:15px;" class="row">
                 <div class="col-lg-6">
-                    <div class="text-container">
-                        <h2>DISEGNO PSICHICO DEL TUO ANIMA GEMELLA</h2>
+                <div class="text-container">
+                        <h2>DISEGNO PSICHICO DELLA TUA ANIMA GEMELLA</h2>
 						<br> <p style="color:#d9480d;text-align:center;"><b>💕 Cara Anima Splendida, 💕</b></p>
  <p>Sei stanco dell'incessante ricerca dell'amore? Desideri una connessione che parli alla tua anima e un compagno veramente destinato a te?    </p> 
  <p>  Sono Il Guaritore dell'Anima Gemella, e sono qui per svelare i misteri del tuo cuore, per guidarti verso un amore che va oltre l'immaginazione, un amore esclusivamente tuo. </p> 
 <br><p style="color:#d9480d;text-align:center;"><b> 🌟 Cos'è un Disegno dell'Anima Gemella? 🌟 </b> </p>
- <p> Un Disegno dell'Anima Gemella è la tua porta personale verso il futuro. Non è solo un ritratto; è la rivelazione del tuo compagno destinato, combinata con le mie intuizioni psichiche e talenti artistici per avvicinarti al tuo amore destinato. È uno specchio che riflette la vera essenza del tuo cuore e la persona destinata a completarti. </p> 
+ <p> Un Disegno dell'Anima Gemella è la tua porta personale verso il futuro. Non è solo un ritratto; è la rivelazione del compagno che il destino ti ha riservato, combinata con le mie intuizioni psichiche e i miei talenti artistici per avvicinarti a questo amore. È uno specchio che riflette la vera essenza del tuo cuore e la persona destinata a completarti. </p> 
  <br><p style="color:#d9480d;text-align:center;"> 🌷 Sentiti Visto, Sentiti Compreso... 🌷 </b></p>
-<p>  Ti sei mai sentito solo in mezzo a una folla, come se nessuno ti capisse veramente? Ridi, parli, ma dentro di te ti chiedi, “Dov'è colui che mi vede davvero? Chi comprende il vero me?” Tutti desideriamo qualcuno che conosca la nostra storia, che capisca il nostro silenzio, che ci faccia sentire appartenenti.</p> 
-<p>Immagina finalmente di incontrare qualcuno che capisce i tuoi scherzi, che conosce le tue canzoni preferite, che riesce a farti sorridere semplicemente essendo presente. Immagina di avere un amico, un compagno, qualcuno con cui condividere i tuoi sogni e le tue preoccupazioni. Qualcuno che ti conosce, il vero te, e ti ama per questo, nonostante tutto. </p> 
-<p> Non si tratta solo di trovare l'amore. Si tratta di trovare la tua altra metà, il tuo vero amico, colui che ti fa sentire completo, compreso e veramente a casa. Si tratta di sentirsi visti, amati, per ciò che sei veramente.</p> 
+<p>  Ti sei mai sentito solo in mezzo a una folla, come se nessuno ti capisse veramente? Ridi, parli, ma dentro di te ti chiedi, “Dov'è colui che mi vede davvero? Chi comprende il vero me?”. Tutti desideriamo qualcuno che conosca la nostra storia, che capisca il nostro silenzio, che ci faccia sentire parte di qualcosa.</p> 
+<p>Immagina finalmente di incontrare qualcuno che comprende il tuo modo di scherzare, che conosce le tue canzoni preferite, che riesce a farti sorridere semplicemente essendo presente. Immagina di avere un amico, un compagno, qualcuno con cui condividere i tuoi sogni e le tue preoccupazioni. Qualcuno che ti conosce, il vero te, e ti ama per questo, nonostante tutto. </p> 
+<p> Non si tratta solo di trovare l'amore. Si tratta di trovare la tua altra metà, il tuo vero amico, colui che ti fa sentire completo, compreso e veramente a casa. Si tratta di sentirsi visti, amati, per ciò che si è veramente.</p> 
 <p> Sono qui per aiutarti a trovare questo amico, questa anima gemella. La disegnerò per te e ti dirò come la incontrerai. La tua anima gemella non è solo qualcuno da amare; è il tuo migliore amico, il tuo complice, la spalla su cui puoi appoggiarti. Quindi, sei pronto a incontrare chi danzerà nella vita con te, ridendo tutto il tempo? </p> 
 
- <br><p style="color:#d9480d;text-align:center;"><b> 💖 Il Tuo Viaggio verso la Scoperta di Sé... 💖 </b></p>
- <p> Incontra non solo un partner, ma un'anima che ti guiderà verso una profonda scoperta di te stesso e una maggiore comprensione. Questo incontro trasformativo è la tua opportunità per sbocciare e vivere una crescita emotiva e spirituale come mai prima d'ora.  </p> 
+ <br><p style="color:#d9480d;text-align:center;"><b> 💖 Il Tuo Viaggio verso la Scoperta di ciò che sei... 💖 </b></p>
+ <p> Incontra non solo un partner, ma un'anima che ti guiderà verso una profonda scoperta di ciò che sei e una maggiore comprensione. Questo incontro trasformativo è la tua opportunità per sbocciare e vivere una crescita emotiva e spirituale come mai prima d'ora.  </p> 
  <br><p style="color:#d9480d;text-align:center;"><b> 💖 La Tua Felicità, Garantita! 💖 </b>  </p>
- <p>  La tua felicità è la mia missione! Se il disegno del tuo anima gemella non ti porta la gioia e la chiarezza che speravi, basta che tu mi contatti. Rimborserò ogni centesimo immediatamente, senza domande, senza problemi! Si tratta della tua tranquillità e soddisfazione di cuore! </p> 
+ <p>  La tua felicità è la mia missione! Se il disegno della tua anima gemella non ti porta la gioia e la chiarezza che speravi, basta che tu mi contatti. Rimborserò ogni centesimo immediatamente, senza domande, senza problemi! Ho a cuore la tua serenità e soddisfazione! </p> 
 
- <br><p> <b>💠 💠 Nota Bene: Questo è un prodotto consegnato digitalmente direttamente alla tua email. Nessun oggetto fisico verrà inviato a casa tua, permettendo un'esperienza rapida e senza interruzioni! </p> 
+ <br><p> <b>💠 💠 Nota Bene: Questo è un prodotto consegnato digitalmente direttamente alla tua email. Nessun oggetto fisico verrà inviato a casa tua, il che permetterà un'esperienza rapida e fluida! </b></p> 
 </div>  
                 </div>
 
@@ -186,7 +186,7 @@ $count = $row['reviews'];
 				<br><a style="width:100%;text-align:center;" class="btn-solid-reg" href="#order">Ordina Ora</a>
                 <br clear="all"> <br clear="all">
                 <p> <b> Sei completamente protetto dalla garanzia di soddisfazione al 100%! </b> 
-				Se per qualsiasi motivo, o senza motivo, non sei completamente soddisfatto di ciò che hai ricevuto, inviami semplicemente una email e ti rimborserò ogni centesimo del costo del tuo ordine. </p> 
+				Se per qualsiasi motivo, non sei completamente soddisfatto di ciò che hai ricevuto, inviami semplicemente una email e ti rimborserò ogni centesimo del costo del tuo ordine. </p> 
 				 <p> <center> <strong>  <FONT COLOR="#d9480d">  Foto dei clienti:  </FONT> </strong><center>  </p> 
                  </div> 
 
@@ -227,19 +227,19 @@ $count = $row['reviews'];
     <script>
 jQuery('input[name="priority"]').change(function(){
     if (this.value == '1') {
-        jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('€39').animate({'opacity': 1}, 200);});
-		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('€129').animate({'opacity': 0.25}, 300);});
-		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>$540</b> (90%)').animate({'opacity': 1}, 400);});	
+        jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('39€').animate({'opacity': 1}, 200);});
+		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('129€').animate({'opacity': 0.25}, 300);});
+		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>540€</b> (90%)').animate({'opacity': 1}, 400);});	
     }
     if (this.value == '24') {
-		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('€29').animate({'opacity': 1}, 200);});
-		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('€89').animate({'opacity': 0.25}, 300);});
-		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>$360</b> (90%)').animate({'opacity': 1}, 400);});
+		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('29€').animate({'opacity': 1}, 200);});
+		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('89€').animate({'opacity': 0.25}, 300);});
+		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>360€</b> (90%)').animate({'opacity': 1}, 400);});
     }
     if (this.value == '48') {
-		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('€19').animate({'opacity': 1}, 200);});
-		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('€59').animate({'opacity': 0.25}, 300);});
-		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>$270</b> (90%)').animate({'opacity': 1}, 400);});
+		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('19€').animate({'opacity': 1}, 200);});
+		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('59€').animate({'opacity': 0.25}, 300);});
+		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>270€</b> (90%)').animate({'opacity': 1}, 400);});
     }
 })
 </script>

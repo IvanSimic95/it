@@ -55,7 +55,7 @@
 ;">
 <div class="col-md-3 col-sm-12 d-none d-lg-block"><img src="/images/60.png" style="max-width:200px;"></div>
 <div class="col-md-9 col-sm-12">
-    <h3 style="margin-bottom:40px;">Garanzia di Soddisfazione al 100%!</h3>
+    <h3 style="margin-bottom:40px;">Soddisfatto o Rimborsato</h3>
     <p>Sei completamente protetto dalla nostra <b>Garanzia di Soddisfazione al 100%</b>. Per questo motivo, ti offriamo una garanzia di rimborso di 60 giorni. Se per qualsiasi motivo, o per nessun motivo in particolare, non sei al 100% soddisfatto di ciò che c'è dentro, basta inviarmi una email e ti rimborserò ogni centesimo del costo del tuo ordine.</p>
 </div>
 </div>
