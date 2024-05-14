@@ -110,7 +110,7 @@ DeBounce_RedBackgound = 'true'; // Convert input background to red for an invali
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="/pannello">Pannello di controllo</a>
+                        <a class="nav-link" href="/dashboard">Pannello di controllo</a>
                     </li>
 
                 </ul>
