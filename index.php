@@ -155,7 +155,7 @@ $count = $row['reviews'];
  <br><p> <b>💠 💠 Nota Bene: Questo è un prodotto consegnato digitalmente direttamente alla tua email. Nessun oggetto fisico verrà inviato a casa tua, il che permetterà un'esperienza rapida e fluida! </p> 
 </div>  
                 </div>
-
+                </div>
                 <!--IMAGE ON THE RIGHT FOR PC DISPLAY -->
                 <div class="col-lg-6 d-none d-lg-block">
                     <div class="image-container" style="margin-top:15px;">
@@ -197,7 +197,6 @@ $count = $row['reviews'];
                     </div> 
                 </div> 
 
-			</div>
          </div>
 	</div>
 
