@@ -10,34 +10,24 @@ $startpixel  = 1; //Facebook pixel pageviews
 $saveAbandoned = 1; //Save abandoned orders to database
 $runAbandoned = 1; //Send abandoned messages
 $push = 1; //Send push notifications for phone on sales
+$sendFBAPI = 1; #Set to 1 to send data via api
 
-$FBPixel1 = "478846387559798"; //NEW Rodica
-#$FBPixel1 = "163033846859083"; // OLD Rodica - R
-$FBPixel2  = "692217912347910"; //Gabe - Facebook
-$FBPixel3  = "792407324843664"; //ROI - F
+//FB Pixel and Token
+$FBPixel1 = "478846387559798";
+
+$accessToken1 = "EAAxkvwzdc3kBOZCtyUl9uuYLLlOZC9dZBmPXI5km4IQFCS4i47ZAV2OWZAtDUyTuyOgM4wpPwmJbwYmUA6eojV82erYbSnndE9Qa";
+$accessToken2 = "an2jyNX3nE3P8ZAcQh21w3exFt8UkOPw1FRHsaB7FmdZCOZAu6h2Bs9py8slHsIVfpSfLktpAb0jO3lpi34JoBa9aPIW8AZDZD";
+//End FB Setup
+
+
+
+
+$fbAccessToken1 = $accessToken1 . $accessToken2;
+
 
 $s1 = "SG.pR31EiejTfiWyldp7LT9Sg.8er6aUy8n2";
 $s2 = "Bjf7tD49qnhWZzA_C39Y5tyjdydTMBFG4";
 $sg = $s1.$s2;
-
-
-//Data for FB Conversions API
-$accessToken1 = "EAAxkvwzdc3kBOZCtyUl9uuYLLlOZC9dZBmPXI5km4IQFCS4i47ZAV2OWZAtDUyTuyOgM4wpPwmJbwYmUA6eojV82erYbSnndE9Qa";
-$accessToken2 = "an2jyNX3nE3P8ZAcQh21w3exFt8UkOPw1FRHsaB7FmdZCOZAu6h2Bs9py8slHsIVfpSfLktpAb0jO3lpi34JoBa9aPIW8AZDZD";
-$fbAccessToken1 = $accessToken1 . $accessToken2;
-#$accessToken1 = "EAAxkvwzdc3kBOyptJvqbPM9PDyN5aD18NrHH4qV5xABNgPosmS4LNE9pXtuf3";
-#$accessToken2 = "6ZBxBFTucuUyu4CNysn005Btf2hAUq8ADBmP3La5r23C0NFR5ke9ZC2bZC1LdT44X6ZBa7p5GZB8BpZBaJp2goi4KgEOdQAscMDEkgGJBxnfXhZALrsTufZAcWSgaKpzw76UgZDZD";
-#$fbAccessToken1 = $accessToken1 . $accessToken2; //Rodica
-
-$accessToken11 = "EAAJw55TSSlwBO8gbnFIRHkllZAvEZAaNXsfFVog3m4Yjg9MarZBo4V4on";
-$accessToken22 = "vGMXaEuLZAIx5GmCcPrm72KHecMI7co54kJDBoaDRVYDJn8qhkJiYJpEC4Iovno59ZBMJZBeswtU2NCLNbGS2Jt69ZAyjcl2ANeh60mVfSiCvptvrZBtWC1gcEB1XgKUIsAI4LfsQZDZD";
-$fbAccessToken2 = $accessToken11 . $accessToken22; //Gabe
-
-$accessToken111 = "EAAxkvwzdc3kBOZBBGdpWyzu1N1Ll8pgVv3OcKZCgJcZA6nbY";
-$accessToken222 = "eJpPKmK9gl4ZA5kQ4clP26DmvvB5xzfrTKnJZAxZBENgkZC3mSnV2sCYiXIf8ttt5asDiMTU7mvyAI52vZB6Q5Bs9aILA4ZAjZBgu7fWQkA84nXntW441EBNuYeMp6u9iEKN8k2fvGzXgtufMRXgZDZD";
-$fbAccessToken3 = $accessToken111 . $accessToken222; //ROI
-
-$sendFBAPI = 1; #Set to 1 to send data via api
 
 
 $FBPurchasePixel = "";
