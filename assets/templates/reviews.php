@@ -96,7 +96,7 @@ echo '
 <div class="pagination">
     <a href="https://<?php echo $domain; ?>/assets/templates/load-review.php?product=<?php echo $t_product_name; ?>&page=1" class="next ">Next</a>
 </div>
-<button class="load-more btn btn-solid-reg form-control-submit-button">Load More</button>
+<button class="load-more btn btn-solid-reg form-control-submit-button">Carica altro</button>
 </div>
 
 
