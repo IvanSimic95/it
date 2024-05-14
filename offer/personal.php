@@ -258,9 +258,9 @@ padding-top:1rem;
 <?php
 if(isset($_SESSION['shortproduct'])){
     $drawingtext = $_SESSION['shortproduct'];
-    $text = 'Capturing the portrait of your <span style="font-weight:600;color:#8e44ad;">'.$drawingtext.'</span> in art is only the beginning';
+$text = "Catturare il ritratto della tua Anima Gemella nell'arte è solo l'inizio. ";
 }else{
-    $text = 'Capturing the portrait in art is only the beginning';
+    $text = "Catturare il ritratto della tua Anima Gemella nell'arte è solo l'inizio. ";
 }
 
 ?>
@@ -293,11 +293,11 @@ if(isset($_SESSION['shortproduct'])){
 		
 				<p style="margin-top: 5px;margin-bottom: 25px;text-align:left;color: #000;font-size: 18px;line-height: 1.4em;" class="card-title-prod">
 
-<?php echo $text; ?>. Your essence, your story, your journey - they're rich, multidimensional, and deserve intricate exploration. 
+<?php echo $text; ?>.  La tua essenza, la tua storia, il tuo viaggio - sono ricchi, multidimensionali e meritano un'esplorazione dettagliata. 
 <br/><br/>
-A few times a year, Soulmate Healer <b>himself<b> offers exclusive </b> <span style="font-weight:600;color:#ec5540;">Psychic Readings</span></b>.  
+Alcune volte all'anno, il Soulmate Healer stesso offre  <span style="font-weight:600;color:#ec5540;">Letture Psichiche </span></b>esclusive.  
 <br/><br/>
-If you're curious to further explore aspects of your life such as <span style="font-weight:600;color:#ec5540;">Love, Health, Finances</span>, or <b>any other area</b>, I'm here to guide you. Let's unlock hidden insights and illuminate the path forward together. 
+Se sei curioso di esplorare ulteriormente aspetti della tua vita come l'Amore, la Salute, le Finanze o qualsiasi altro ambito, sono qui per guidarti. Scopriamo insieme intuizioni nascoste e illuminiamo il cammino verso il futuro.
 <br/>
 
 <div style="margin-top:5px;margin-bottom:7px;background-color:#f5f5f5;padding:4px;" class="row">
@@ -319,7 +319,7 @@ If you're curious to further explore aspects of your life such as <span style="f
 			</div>
 			
 			<br/>
-Soulmate Healer is known as the only Psychic with 100% accuracy, so be prepared for mind-blowing details that will guarantee to improve your life!
+Soulmate Healer è conosciuto come l'unico Psichico con una precisione del 100%, quindi preparati a dettagli strabilianti che garantiranno di migliorare la tua vita!
 <br/><br/>
 
 
@@ -330,28 +330,28 @@ Soulmate Healer is known as the only Psychic with 100% accuracy, so be prepared 
                         <img class="img-fluid" src="/images/products/personal.png" style="width:450px;display:none;">
 							<div style="padding:5px;margin-bottom:0px;">
 
-						<p style="letter-spacing: -0.25px;font-size: 22px;line-height: 1.4em;margin-top: 10px;font-weight:600;">Get Your <u>Personalized Psychic Reading </u> For Just <b>$23</b> <br/></h2> 
+						<p style="letter-spacing: -0.25px;font-size: 22px;line-height: 1.4em;margin-top: 10px;font-weight:600;">Ottieni La <u>Tua Lettura Psichica Personalizzata </u> Per Soli <b>23€</b> <br/></h2> 
 						<br>
 
 				<div style="margin-bottom: -8px;margin-top: -17px;font-size: 12px;;">
 					<span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span>
-					<span style="font-size:11px;font-weight:600;"><?php echo $count; ?> reviews</span>
+					<span style="font-size:11px;font-weight:600;"><?php echo $count; ?> recensioni</span>
 				</div>
 				<br clear="all">
                 <a href="https://www.digistore24.com/answer/yes?template=light" style="text-decoration:none;color: #fff;text-transform:uppercase;" class="">
                                 <div class="blob purple">
                                
-                                ✨ YES!<br>
-                                <span style="font-size:13px;font-weight:400;">I Want My Personal Psychic Reading</span>
+                                ✨ SÌ,<br>
+                                <span style="font-size:13px;font-weight:400;">Voglio la Mia Lettura Psichica Personale</span>
                                 </div></a>
 
 
 								<p></p>
-							<br>	<a href="https://www.digistore24.com/answer/no" style="font-size: 16px;color:blue;" href="">No Thanks, I'll remain in the shadows of uncertainty</a>
-								<p style="letter-spacing: -0.25px;font-size: 13px;line-height: 1.2;margin-top: 20px;">This special offer is only here and now. <span style="font-weight:600;">If you leave this page, you'll lose out on the chance to get the discount</span>. So, <span style="color:#8e44ad;font-weight:600;text-decoration:underline;">click the magic button now</span>!</p>
+							<br>	<a href="https://www.digistore24.com/answer/no" style="font-size: 16px;color:blue;" href="">No grazie, rimarrò nell'ombra dell'incertezza.</a>
+								<p style="letter-spacing: -0.25px;font-size: 13px;line-height: 1.2;margin-top: 20px;">Questa offerta speciale è valida solo qui e ora. <span style="font-weight:600;">Se lasci questa pagina, perderai l'opportunità di ottenere lo sconto.</span>. Quindi, <span style="color:#8e44ad;font-weight:600;text-decoration:underline;">clicca ora sul pulsante magico!</span>!</p>
 								
 								<p style="letter-spacing: -0.25px;font-size: 12px;line-height: 1.2;margin-top: 20px;">
-									<span style="color: #09c100;font-weight:700;">$</span> Get a 60 day money back guarantee if you aren't satisfied.
+									<span style="color: #09c100;font-weight:700;">$</span> Ottieni una garanzia di rimborso di 60 giorni se non sei soddisfatto.
 								</p>
 							</div>
 						</div>
