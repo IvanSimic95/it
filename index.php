@@ -61,7 +61,7 @@ $count = $row['reviews'];
 						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Garanzia Soddisfatti o rimborsati<br/>
 						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Ordina ora, lo ricevi entro un’ora</p>
 						
-						<h2 class="new_prce" style="font-size: 35px;display: inline-block;">19€</h2>  
+						<h2 class="new_prce" style="font-size: 35px;display: inline-block;">29€</h2>  
                         <h2 class="old_price" style="font-size: 25px;opacity: 0.25;display: inline-block;text-decoration: line-through;">59€</h2> 
 						<p style="display:none;">You save <span class="saveda"><b>270€</b> (90%)</span></p>
 						</div>
@@ -227,17 +227,17 @@ $count = $row['reviews'];
     <script>
 jQuery('input[name="priority"]').change(function(){
     if (this.value == '1') {
-        jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('39€').animate({'opacity': 1}, 200);});
+        jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('49€').animate({'opacity': 1}, 200);});
 		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('129€').animate({'opacity': 0.25}, 300);});
 		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>540€</b> (90%)').animate({'opacity': 1}, 400);});	
     }
     if (this.value == '24') {
-		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('29€').animate({'opacity': 1}, 200);});
+		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('39€').animate({'opacity': 1}, 200);});
 		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('89€').animate({'opacity': 0.25}, 300);});
 		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>360€</b> (90%)').animate({'opacity': 1}, 400);});
     }
     if (this.value == '48') {
-		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('19€').animate({'opacity': 1}, 200);});
+		jQuery('.new_prce').animate({'opacity' : 0}, 200, function(){jQuery('.new_prce').html('29€').animate({'opacity': 1}, 200);});
 		jQuery('.old_price').animate({'opacity' : 0}, 300, function(){jQuery('.old_price').html('59€').animate({'opacity': 0.25}, 300);});
 		jQuery('.saveda').animate({'opacity' : 0}, 400, function(){jQuery('.saveda').html('<b>270€</b> (90%)').animate({'opacity': 1}, 400);});
     }
