@@ -293,11 +293,11 @@ $text = "Catturare il ritratto della tua Anima Gemella nell'arte è solo l'inizi
 		
 				<p style="margin-top: 5px;margin-bottom: 25px;text-align:left;color: #000;font-size: 18px;line-height: 1.4em;" class="card-title-prod">
 
-<?php echo $text; ?>.  La tua essenza, la tua storia, il tuo viaggio - sono ricchi, multidimensionali e meritano un'esplorazione dettagliata. 
+<?php echo $text; ?>.  La tua essenza, la tua storia, il tuo viaggio – sono momenti ricchi, multidimensionali e meritano un'esplorazione dettagliata.
 <br/><br/>
-Alcune volte all'anno, il Soulmate Healer stesso offre  <span style="font-weight:600;color:#ec5540;">Letture Psichiche </span></b>esclusive.  
+Alcune volte all'anno, il Guaritore offre  <span style="font-weight:600;color:#ec5540;">Letture Psichiche </span></b>esclusive.  
 <br/><br/>
-Se sei curioso di esplorare ulteriormente aspetti della tua vita come l'Amore, la Salute, le Finanze o qualsiasi altro ambito, sono qui per guidarti. Scopriamo insieme intuizioni nascoste e illuminiamo il cammino verso il futuro.
+Se vuoi esplorare in maniera più approfondita altri  aspetti della tua vita come l'Amore, la Salute, le Finanze o qualsiasi altro ambito, sono qui per guidarti. Scopriamo insieme intuizioni nascoste e illuminiamo il tuo cammino futuro.
 <br/>
 
 <div style="margin-top:5px;margin-bottom:7px;background-color:#f5f5f5;padding:4px;" class="row">
@@ -319,7 +319,7 @@ Se sei curioso di esplorare ulteriormente aspetti della tua vita come l'Amore, l
 			</div>
 			
 			<br/>
-Soulmate Healer è conosciuto come l'unico Psichico con una precisione del 100%, quindi preparati a dettagli strabilianti che garantiranno di migliorare la tua vita!
+Soulmate Healer è conosciuto come l'unico Psichico in grado di assicurare una precisione del 100%, quindi preparati a dettagli strabilianti che ti garantiranno una vita migliore!
 <br/><br/>
 
 
