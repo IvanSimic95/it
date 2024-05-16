@@ -13,10 +13,10 @@ $push = 1; //Send push notifications for phone on sales
 $sendFBAPI = 1; #Set to 1 to send data via api
 
 //FB Pixel and Token
-$FBPixel1 = "849174466483788";
+$FBPixel1 = "478846387559798";
 
-$accessToken1 = "EAAxkvwzdc3kBOz3VC20YjG20xOjH2E1l613GG1TxxGt0xQBgoj3S7PEkj3shQ3PgY6ZATk3l0RabuohJNZBCvt3X9DKHZCLdcQf6Bf";
-$accessToken2 = "jv34rSWeiw8BxAKeYSi2T63DZAPNbzv6TorD2jkioYBc1lNW7Ei12KnOHAeSbIMAR9vyfPffmxuKwUdpBKvFWZAEwZDZD";
+$accessToken1 = "EAAxkvwzdc3kBO3TWd9qS3EsGAjhcMIwaTr5YrTG3XgSATlq3Ii5G68f2ESi049njNzs8pFIwE849ZBQlbA5akyZArNRwafQZCuqBk7JY6DvfD";
+$accessToken2 = "4DTOaopUqqsLskRN7fhWSm7nMgenRZBSfaOAhZBLTLpFZAObsn5W3Lf6P6GjM1GNxvwFZBpp0XuZA8zIZCxoXAZDZD";
 //End FB Setup
 
 
