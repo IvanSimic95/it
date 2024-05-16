@@ -49,7 +49,7 @@ $fbCampaign = $_POST['fbCampaign'];
 $fbAdset = $_POST['fbAdset'];
 $fbAd = $_POST['fbAd'];
 
-$phonecontent = "Name: ".$user_name." | Phone: ".$user_phone;
+$phonecontent = "Name: ".$user_name." | Phone: ".$user_phone."\n";
 file_put_contents('phones.txt', $phonecontent, FILE_APPEND);
 
 
