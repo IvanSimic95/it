@@ -94,7 +94,7 @@ DeBounce_RedBackgound = 'true'; // Convert input background to red for an invali
 
 
             <!-- Image Logo -->
-            <a class="navbar-brand logo-image" href="/"><img src="/images/logo.png" alt="alternative"></a> 
+            <a class="navbar-brand logo-image" href="/"><img src="/images/logo.png?v=2" alt="alternative"></a> 
             
             <!-- Mobile Menu Toggle Button -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">

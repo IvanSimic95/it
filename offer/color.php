@@ -363,13 +363,13 @@ if(isset($_SESSION['product'])){
                 </div>
 				
 				<div class="col-lg-12">
-                    <h2 style="font-size:24px;" class="h2-heading">Attenzione! Il tuo ritratto non è completo senza questo</h2>
+                    <h2 style="font-size:24px;" class="h2-heading">Attenzione! Al tuo ritratto manca ancora qualcosa:</h2>
                 </div>
 
 		<div class="col-lg-12 col-xl-12">
 			
 				<p style="margin-top:10px;margin-bottom: 20px;text-align:center;color: #000;font-size: 18px;line-height: 1.4em;" class="card-title-prod">
-					IImmagina di vedere non solo uno schizzo a matita, ma un ritratto radioso e a pieno colore che cattura veramente la vivacità del tuo disegno. La profondità dei loro occhi, la tonalità delle loro labbra, i colori che catturano la loro essenza — tutto portato alla vita.
+					Immagina di vedere non solo uno schizzo a matita, ma un ritratto radioso e a pieno colore che cattura veramente la vivacità del disegno. La profondità degli occhi, la tonalità delle labbra, i colori che catturano l’essenza della tua anima gemella… tutto portato alla vita.
 				</p>
 			
 			<div style="margin-top:5px;margin-bottom:7px;background-color:#f5f5f5;padding:4px;" class="row">
@@ -392,13 +392,13 @@ if(isset($_SESSION['product'])){
  
                        
 				<p style="margin-top:20px;margin-bottom: 15px;text-align:center;color: #000;font-size: 18px;line-height: 1.4em;" class="card-title-prod">
-					Sei così vicino a potenziare la magia. Con solo un piccolo aggiunta, puoi trasformare il ritratto del tuo anima gemella da bello a assolutamente mozzafiato.
+					Sei così vicino a potenziare la magia. Con una sola piccola aggiunta, puoi rendere il ritratto della tua anima gemella assolutamente mozzafiato e realistico!
 				</p>
                         
 					   
 					    <div style="margin-bottom: 20px;border-style: dashed; border-color: #3b75cc; border-width: 2px; background-color:#eef5fe;" class="card-image">
 							<div style="padding:5px;margin-bottom:0px;">
-								<p style="letter-spacing: -0.25px;font-size: 22px;line-height: 1.4em;margin-top: 10px;font-weight:600;">Aggiorna a <u>un ritratto a colori vividi</u> per soli 9.67€ <i style="font-size: 13px;" class="fas fa-angle-double-right"></i></p>
+								<p style="letter-spacing: -0.25px;font-size: 22px;line-height: 1.4em;margin-top: 10px;font-weight:600;">Aggiorna il  <u>ritratto con colori vividi </u> per soli 9.67€ <i style="font-size: 13px;" class="fas fa-angle-double-right"></i></p>
 
 				<div style="margin-bottom: -8px;margin-top: -17px;font-size: 12px;;">
 					<span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span>
@@ -408,7 +408,7 @@ if(isset($_SESSION['product'])){
 								<a href="https://www.digistore24.com/answer/yes?template=light" style="color: #fff;" class="blob orange"><i style="margin-right: 10px;" class="fa fa-shopping-cart" aria-hidden="true"></i>AGGIORNA ORA</a>
 								<p></p>
 <br>								<a href="https://www.digistore24.com/answer/no" style="font-size: 18px;color:blue;" href="">No grazie, resterò con il bianco e nero</a>
-								<p style="letter-spacing: -0.25px;font-size: 13px;line-height: 1.2;margin-top: 20px;">Questa offerta speciale è disponibile solo qui e ora. Se lasci questa pagina, perderai l'opportunità di ottenere il disegno a colori. Quindi, <span style="color:#ff793f;font-weight:600;text-decoration:underline;">clicca ora sul pulsante di aggiornamento!</span>!</p>
+								<p style="letter-spacing: -0.25px;font-size: 13px;line-height: 1.2;margin-top: 20px;">Questa offerta speciale è disponibile solo qui e ora. Se lasci questa pagina, perderai l'opportunità di ottenere il disegno a colori. Quindi, <span style="color:#ff793f;font-weight:600;text-decoration:underline;">clicca ora sul pulsante e approfittane!</span>!</p>
 								
 								<p style="letter-spacing: -0.25px;font-size: 12px;line-height: 1.2;margin-top: 20px;">
 									<span style="color: #09c100;font-weight:700;">$</span> Ottieni una garanzia di rimborso di 60 giorni se non sei soddisfatto!
