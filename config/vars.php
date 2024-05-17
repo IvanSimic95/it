@@ -70,10 +70,10 @@ $pastOrderFooter = "\n\nIt was such a pleasure doing your reading, my dear. I ho
 
 
 //Order Processing & Order Complete Notifications
-$OrderProcessingMessage = "Your Order status is now set to *Processing*!";
+$OrderProcessingMessage = "Lo stato del tuo ordine è ora impostato su *In elaborazione*!";
 
-$OrderCompleteMessage = "Your Order status is now set to *Complete*!";
-$ContinueConvoMsg = "If you want to chat with Soulmate Healer, simply reply to this conversation!";
+$OrderCompleteMessage = "Lo stato del tuo ordine è ora impostato su *Completo*!";
+$ContinueConvoMsg = "Se vuoi chattare, rispondi semplicemente a questa conversazione!";
 //END Order Messages
 
 $monthlyEnergyHeader = "Dear %FIRSTNAME%,\n\nYour monthly Energy Reading for %MONTH% is ready!\n\n";
@@ -85,11 +85,11 @@ $weeklyEnergyFooter = "\n\nWith warmth and insight,\nSoulmate Healer";
 
 //EMAIL TEXTS
 $AbandonSubject = "The Timer's Going Off on Your Order!";
-$AbandonMessage = "Look's like you forgot to finish your order... But don't worry, we kept it safe for you! Click the button below to finish your purchase & get closer to your soulmate.";
+$AbandonMessage = "Sembra che tu abbia dimenticato di completare il tuo ordine... Ma non preoccuparti, l'abbiamo conservato per te! Clicca il pulsante qui sotto per completare il tuo acquisto e avvicinarti alla tua anima gemella.";
 
 
-$firstAbandon = "Hi %FIRSTNAME%,\n\nThanks for requesting your very own %PRODUCT%, you are so close to getting it.\n\nIn case you haven't completed the payment for your sketch, <%LINK%|CLICK HERE>   NOTE: (If you did already purchase, you can disregard this)\n\nI cannot wait to show you your %PRODUCT%, it may actually surprise you!\n\nFinish Completing Your %PRODUCT% Order <%LINK%|here>\n\nBest Wishes,\n\nSoulmate Healer";
-$secondAbandon = "Hi %FIRSTNAME%,\n\nWe noticed you started a purchase of %PRODUCT%, but didn't complete it.\n\nIn case the price was an issue we are prepared to provide you with one time only special 20% discount.\n\nYou can claim it by <%LINK%|CLICKING HERE>   NOTE: (If you did already purchase, you can disregard this)\n\nI understand some people can't afford my products so sometimes I reward some with discounts!\n\nFinish Completing Your %PRODUCT% Order <%LINK%|here>\n\nBest Wishes,\n\nSoulmate Healer";
+$firstAbandon = "Ciao %FIRSTNAME%,\n\nGrazie per aver richiesto il tuo proprio %PRODUCT%, sei così vicino a ottenerlo.\n\nIn caso non avessi completato il pagamento per il tuo disegno, <%LINK%|clicca qui>   NOTE: (If you did already purchase, you can disregard this)\n\nI cannot wait to show you your %PRODUCT%, it may actually surprise you!\n\nFinish Completing Your %PRODUCT% Order <%LINK%|here>\n\nBest Wishes,\n\nSoulmate Healer";
+$secondAbandon = "Ciao %FIRSTNAME%,\n\nWe noticed you started a purchase of %PRODUCT%, but didn't complete it.\n\nIn case the price was an issue we are prepared to provide you with one time only special 20% discount.\n\nYou can claim it by <%LINK%|CLICKING HERE>   NOTE: (If you did already purchase, you can disregard this)\n\nI understand some people can't afford my products so sometimes I reward some with discounts!\n\nFinish Completing Your %PRODUCT% Order <%LINK%|here>\n\nBest Wishes,\n\nSoulmate Healer";
 
 include_once $_SERVER['DOCUMENT_ROOT'].'/config/functions.php';
 ?>
