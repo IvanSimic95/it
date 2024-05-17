@@ -1,8 +1,8 @@
 <?php
 $t_product_name = "purification";
 $t_product_form_name = "purification";
-$title = "Psychic Purification | Soulmate Healer";
-$description = "I will provide you with your psychic purification";
+$title = "Purificazione | Soulmate Healer";
+$description = "Ti fornirò la tua purificazione psichica";
 
 include_once $_SERVER['DOCUMENT_ROOT'] . '/assets/templates/header.php'; ?>
 <?php
@@ -31,7 +31,7 @@ $count = $row['reviews'];
 
                 <div class="col-lg-6 col-xl-5">
                     <div class="header-box">
-                        <h1 style="margin-top: 10px;">Psychic Purification</h1>
+                        <h1 style="margin-top: 10px;">Purificazione</h1>
                         <h4 style="text-align: center;font-size: 15px;font-weight: 500;margin-top:-10px;">
                             <span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><br>
                             <span style="font-size:13px;"><?php echo $count; ?> reviews</span>
