@@ -37,29 +37,29 @@ $count = $row['reviews'];
                             <span style="font-size:13px;"><?php echo $count; ?> reviews</span>
                         </h4>
                         <p style="color: #000;text-align: left;padding: 0px 17px;margin-top: 23px;">
-                            <i class="fas fa-check-square" style="color: #0bd10b;"></i> 100% Accuracy <br />
-                            <i class="fas fa-check-square" style="color: #0bd10b;"></i> 100% Satisfaction guarantee<br />
-                            <i class="fas fa-check-square" style="color: #0bd10b;"></i> Done in 5 days
+                       	<i class="fas fa-check-square" style="color: #0bd10b;"></i> Precisione al 99%<br/>
+						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Garanzia Soddisfatti o rimborsati<br/>
+						<i class="fas fa-check-square" style="color: #0bd10b;"></i> Completato in 5 giorni</p>
                         </p>
 
-                        <h2 class="new_prce" style="font-size: 35px;display: inline-block;">$199</h2>
-                        <h2 class="old_price" style="font-size: 25px;opacity: 0.25;display: inline-block;text-decoration: line-through;">$499</h2>
-                        <p>You save <span class="saveda"><b>$300</b> (60%)</span></p>
+                        <h2 class="new_prce" style="font-size: 35px;display: inline-block;">180€</h2>
+                        <h2 class="old_price" style="font-size: 25px;opacity: 0.25;display: inline-block;text-decoration: line-through;">499€</h2>
+                        <p>You save <span class="saveda"><b>$319</b> (64%)</span></p>
                     </div>
 
 
 
                     <div id="order" class="form-container">
-                        <p style="text-align:center;margin-top: -20px;font-size: 15px;">Fill in the form below to book your reading!</p>
+                        <p style="text-align:center;margin-top: -20px;font-size: 15px;">Inizia la tua esperienza compilando il modulo qui sotto:</p>
                         <form id="ajax-form" class="form-order" name="order_form" action="javascript:void(0)" method="post">
                             <div class="form-group">
                                 <input type="text" class="form-control-input" id="sname" name="form_name" required>
-                                <label class="label-control" for="sname">Name</label>
+                                <label class="label-control" for="sname">Nome completo</label>
                                 <div class="help-block with-errors"></div>
                             </div>
                             <div class="form-group">
                                 <input type="email" class="form-control-input" id="semail" name="form_email" required>
-                                <label class="label-control" for="semail">Email</label>
+                                <label class="label-control" for="semail">Indirizzo email</label>
                                 <div class="help-block with-errors"></div>
                             </div>
                             <div class="form-group">
@@ -82,12 +82,12 @@ $count = $row['reviews'];
                             <div id="error" class="alert alert-danger" style="display: none"></div>
 
                             <div class="form-group">
-                                <button id="submitbtn" type="submit" class="form-control-submit-button">PLACE AN ORDER <i class="fa-solid fa-arrow-right"></i></button>
+                                <button id="submitbtn" type="submit" class="form-control-submit-button">EFFETTUA IL TUO ORDINE <i class="fa-solid fa-arrow-right"></i></button>
                             </div>
 
                             <img style="width: 100%;" src="/images/payment-icons.webp">
-                            <p style="font-size:12px;margin-top:7px;margin-bottom: -10px;"><img style="width: 100%;max-width: 28px;padding: 3px;" src="/images/tarot-cards.png">Only accepting 4 more readings for today! <i class="fa-solid fa-fire-flame-curved"></i> 27 Sold</p> 
-
+                            <p style="font-size:12px;margin-top:7px;margin-bottom: -10px;"><img style="width: 100%;max-width: 28px;padding: 3px;" src="/images/tarot-cards.png">Accetto solo un altro ordine per oggi! <i class="fa-solid fa-fire-flame-curved"></i> 4 venduti</p>
+								
                         </form>
                     </div>
                     <br clear="all">
