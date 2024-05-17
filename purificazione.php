@@ -44,7 +44,7 @@ $count = $row['reviews'];
 
                         <h2 class="new_prce" style="font-size: 35px;display: inline-block;">180€</h2>
                         <h2 class="old_price" style="font-size: 25px;opacity: 0.25;display: inline-block;text-decoration: line-through;">499€</h2>
-                        <p>You save <span class="saveda"><b>$319</b> (64%)</span></p>
+                        <p>Risparmi <span class="saveda"><b>31€</b> (64%)</span></p>
                     </div>
 
 
