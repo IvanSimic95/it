@@ -87,7 +87,7 @@ $count = $row['reviews'];
 									<div class="help-block with-errors"></div>
 								</div>
 								<div class="form-group">
-                                <div class="form_box">
+                                <div class="form_box"> 
                                     <div style="text-align:start;">La tua data di nascita</div>
                                     <?php include_once $_SERVER['DOCUMENT_ROOT'].'/assets/templates/date.php'; ?>
                                 </div>

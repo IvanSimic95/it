@@ -32,7 +32,7 @@ $count = $row['reviews'];
 
                 <div class="col-lg-6 col-xl-5">
                     <div class="header-box">
-                        <h1 style="margin-top: 10px;">Personal Psychic Reading</h1>
+                        <h1 style="margin-top: 10px;">Lettura Psichica</h1>
                         <h4 style="text-align: center;font-size: 15px;font-weight: 500;margin-top:-10px;">
                             <span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><br>
                             <span style="font-size:13px;"><?php echo $count; ?> reviews</span>
@@ -201,8 +201,7 @@ $count = $row['reviews'];
                 </div>
             </div>
             <br>
-            <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/assets/templates/allproducts.php'; ?>
-
+        
             <br clear="all">
 
         </div>
