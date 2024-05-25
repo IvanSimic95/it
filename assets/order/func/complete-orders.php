@@ -155,7 +155,7 @@ $logArray[] = "
 				$maxMonth = rand(16,36);
 				$meetTime = $minMonth." - ".$maxMonth;
 
-				$premiumText = "\n\nYour ".$premiumProdT." initials: *".$initials."*\nYou will meet in about *".$maxMonth."* weeks\n";
+				$premiumText = "\n\nle iniziali della tua anima gemella: *".$initials."*\nVi incontrerete tra circa *".$maxMonth."* settimane\n";
 
 			}else{
 				$premiumText = "";
