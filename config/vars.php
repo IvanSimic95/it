@@ -41,32 +41,32 @@ $productMETA = "";
 $BlacklistError = "Unexpected Error";
 
 //START Order Messages
-$processingWelcome = "Stiamo elaborando il tuo *Ordine #%ORDERID%*\n\n Il tuo ordine verrà consegnato alla tua email in %PRIORITY% ore o meno.\n\n Se questo è il tuo primo ordine, il tuo nuovo account verrà creato automaticamente \n\n Per accedere automaticamente al tuo account basta <%EMAILLINK%|Clicca qui!>\n\n_Con amore!_\n*Soulmate Healer*";
+$processingWelcome = "Stiamo elaborando il tuo *Ordine #%ORDERID%*\n\n Il tuo ordine verrà consegnato alla tua email in %PRIORITY% ore o meno.\n\n Se questo è il tuo primo ordine, il tuo nuovo account verrà creato automaticamente \n\n Per accedere automaticamente al tuo account basta <%EMAILLINK%|Clicca qui!>\n\n_Con amore!_\n*Il Guaritore Delle Anime*";
 
 
 //Complete Soulmate, Twin Flame & Future Spouse Text added Before and After Order Text
 $generalOrderHeader = " %FIRSTNAME%\n\n Prima di tutto, grazie mille per avermi dato l'opportunità di creare una connessione significativa con te! Mentre continuiamo, per favore mettiti comodo e senti con tutto il cuore tutto ciò che ho visto mentre ti connetti con la tua aura ed energia. Spero che condividere questo con te accenderà una luce di gioia nel tuo cuore e ti farà sapere che cose belle sono in arrivo.\n\n";
-$generalOrderFooter = "\n\n Con amore,\n*Soulmate Healer* "; 
+$generalOrderFooter = "\n\n Mentre disegnavo il suo ritratto psichico, è accaduto qualcosa di straordinario: ho sentito una profonda connessione con la sua energia ed è stato come se la tua storia si stesse svolgendo proprio davanti a me. Ho colto molti dettagli su di te, ma alcune cose mi preoccupano e vorrei discuterne con te personalmente. Puoi contattarmi direttamente su Facebook https://m.me/IlGuaritoreDelleAnime o su whatsapp +393773102820 \n\nCon amore,\n*Il Guaritore Delle Anime*"; 
 
 //Complete text used when user purchased premium but no reading
 $generalOrderHeaderNoReading = " %FIRSTNAME%\n\n Prima di tutto, grazie mille per avermi dato l'opportunità di creare una connessione significativa con te! Il tuo disegno è completo e spero che ti piaccia!";
 #$generalOrderFooterNoReading = "\nIt was such a pleasure doing your drawing, my dear. I hope that you enjoy it as much as I enjoyed connecting with your beautiful soul energy!\n\nWith Love,\n*Soulmate Healer* ";
-$generalOrderFooterNoReading = "\n\nCon amore\n*Soulmate Healer* "; 
+$generalOrderFooterNoReading = "\n\n Mentre disegnavo il suo ritratto psichico, è accaduto qualcosa di straordinario: ho sentito una profonda connessione con la sua energia ed è stato come se la tua storia si stesse svolgendo proprio davanti a me. Ho colto molti dettagli su di te, ma alcune cose mi preoccupano e vorrei discuterne con te personalmente. Puoi contattarmi direttamente su Facebook https://m.me/IlGuaritoreDelleAnime o su whatsapp +393773102820 \n\nCon amore,\n*Il Guaritore Delle Anime*"; 
 
 //Complete text when user purchased no reading and no premium
-$generalOrderNoReading = " %FIRSTNAME%\n\n Prima di tutto, grazie mille per avermi dato l'opportunità di creare una connessione significativa con te! Il tuo disegno è completo e spero che ti piaccia! With Love,\n*Soulmate Healer*  "; 
+$generalOrderNoReading = " %FIRSTNAME%\n\n Prima di tutto, grazie mille per avermi dato l'opportunità di creare una connessione significativa con te! Il tuo disegno è completo e spero che ti piaccia! With Love,\n*Il Guaritore Delle Anime*  "; 
 
 //Complete Future Baby Text added Before and After Order Text
 $babyOrderHeader = "Dear %FIRSTNAME%\n\nFirst of all, thank you so much for giving me the opportunity to create a meaningful connection with you! As we continue, please make yourself comfortable and feel wholeheartedly everything I've seen while connecting with your aura and energy. I hope that sharing this with you will kindle a light of joy in your heart, and let you know that beautiful things are on the way.\n\n";
-$babyOrderFooter = "\n\nIt was such a pleasure doing your reading, my dear. I hope that you enjoy it as much as I enjoyed connecting with your beautiful soul energy!\n\nWith Love,\n*Soulmate Healer*";
+$babyOrderFooter = "\n\nIt was such a pleasure doing your reading, my dear. I hope that you enjoy it as much as I enjoyed connecting with your beautiful soul energy!\n\nWith Love,\n*Il Guaritore Delle Anime*";
 
 //Complete Reading Text added Before and After Order Text
 $readingOrderHeader = "Dear %FIRSTNAME%\n\nFirst of all, thank you so much for giving me the opportunity to create a meaningful connection with you! As we continue, please make yourself comfortable and feel wholeheartedly everything I've seen while connecting with your aura and energy. I hope that sharing this with you will kindle a light of joy in your heart, and let you know that beautiful things are on the way.\n\n";
-$readingOrderFooter = "\n\nIt was such a pleasure doing your reading, my dear. I hope that you enjoy it as much as I enjoyed connecting with your beautiful soul energy!\n\nWith Love,\n*Soulmate Healer*";
+$readingOrderFooter = "\n\nIt was such a pleasure doing your reading, my dear. I hope that you enjoy it as much as I enjoyed connecting with your beautiful soul energy!\n\nWith Love,\n*Il Guaritore Delle Anime*";
 
 //Complete Past Life Text added Before and After Order Text
 $pastOrderHeader = "Dear %FIRSTNAME%\n\nFirst of all, thank you so much for giving me the opportunity to create a meaningful connection with you! As we continue, please make yourself comfortable and feel wholeheartedly everything I've seen while connecting with your aura and energy. I hope that sharing this with you will kindle a light of joy in your heart, and let you know that beautiful things are on the way.\n\n";
-$pastOrderFooter = "\n\nIt was such a pleasure doing your reading, my dear. I hope that you enjoy it as much as I enjoyed connecting with your beautiful soul energy!\n\nWith Love,\n*Soulmate Healer*";
+$pastOrderFooter = "\n\nIt was such a pleasure doing your reading, my dear. I hope that you enjoy it as much as I enjoyed connecting with your beautiful soul energy!\n\nWith Love,\n*Il Guaritore Delle Anime*";
 
 
 //Order Processing & Order Complete Notifications
