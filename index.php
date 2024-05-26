@@ -81,11 +81,14 @@ $count = $row['reviews'];
 									<label class="label-control" for="semail">Indirizzo email</label>
 									<div class="help-block with-errors"></div>
 								</div>
+                                <!--
                                 <div class="form-group">
 									<input type="tel" class="form-control-input" id="phone" name="form_phone" required>
 									<label class="label-control" for="phone">Numero di telefono</label>
 									<div class="help-block with-errors"></div>
 								</div>
+
+                                -->
 								<div class="form-group">
                                 <div class="form_box"> 
                                     <div style="text-align:start;">La tua data di nascita</div>
