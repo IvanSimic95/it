@@ -39,7 +39,7 @@ $user_name = $_POST['form_name'];
 $user_name = htmlspecialchars($user_name, ENT_QUOTES);
 $user_name = normalizeChars($user_name);
 $user_email = $_POST['form_email'];
-$user_phone = $_POST['form_phone'];
+#$user_phone = $_POST['form_phone'];
 $order_product = $_POST['product'];
 $order_priority = $_POST['priority'];
 $order_date = date('Y-m-d H:i:s');
@@ -49,8 +49,8 @@ $fbCampaign = $_POST['fbCampaign'];
 $fbAdset = $_POST['fbAdset'];
 $fbAd = $_POST['fbAd'];
 
-$phonecontent = "Name: ".$user_name." | Phone: ".$user_phone."\n";
-file_put_contents('phones.txt', $phonecontent, FILE_APPEND);
+#$phonecontent = "Name: ".$user_name." | Phone: ".$user_phone."\n";
+#file_put_contents('phones.txt', $phonecontent, FILE_APPEND);
 
 
 $parser = new TheIconic\NameParser\Parser();
